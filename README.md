@@ -16,4 +16,6 @@ Ajouter un étudiant POST /students Body (JSON) { "nom": "kawtar abderrazak", "e
 Mettre à jour un étudiant PUT /students/{id} Body (JSON) : { "nom": "kawtar abderrazak", "email": "kawtar.abderrazak1@gmail.com", "age": 22 }
 
 Supprimer un étudiant DELETE /students/{id}
- 
+
+
+
