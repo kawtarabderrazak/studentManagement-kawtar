@@ -17,5 +17,6 @@ Mettre à jour un étudiant PUT /students/{id} Body (JSON) : { "nom": "kawtar ab
 
 Supprimer un étudiant DELETE /students/{id}
 
+https://github.com/user-attachments/assets/a769d76a-6da5-454a-b9ff-93a9f86fb873
 
 
